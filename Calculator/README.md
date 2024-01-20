@@ -1,8 +1,9 @@
-# Calculator
+##  Calculator
 
-A simple Calculator App built with HTML, CSS, and JavaScript. It also has a Dark Mode.
+The calculator project involves creating a basic calculator using CSS, HTML, and JavaScript. I've implemented an interactive interface with buttons for addition, subtraction, multiplication, and division operations.
 
-![Calculator Preview Image](https://user-images.githubusercontent.com/44538497/169086855-bd20e6e0-3675-4db6-b086-0298005973f4.png)
-
-* Favicon from:
-<a href="https://www.flaticon.com/free-icons/calculator" title="calculator icons">Freepik - Flaticon</a>
+### Key Learning Points:
+- Implementing interactive interfaces with JavaScript
+- Utilizing CSS grid system for layout
+- Handling user input with event listeners
+- Performing calculations with JavaScript
