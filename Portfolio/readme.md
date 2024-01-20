@@ -1,4 +1,4 @@
-## 2. Portfolio
+##  Portfolio
 
 Creating a personal portfolio using HTML and CSS is a popular project for beginners. This project involves designing a portfolio page to showcase my skills and projects.
 
